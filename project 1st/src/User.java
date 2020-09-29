@@ -7,7 +7,7 @@ public class User {
 
 		Date d1=new Date();
 		d1.setDate(27,8,2020);
-		d1.displayDate();
+		d1.displayDate();//changes made
 	}
 
 }
